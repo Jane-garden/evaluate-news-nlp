@@ -25,6 +25,3 @@ Outputs
 	•	Demonstrated measurable gains in multi-hop reasoning accuracy on legal texts.
 	•	Delivered a structured report analyzing model design, experimental results, and potential applications in legal AI.
 
-⸻
-
-要不要我再帮你整理成 简历 bullet points 的版本（比如适合放在“Projects”里，3–4条精炼的点）？

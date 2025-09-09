@@ -1,9 +1,6 @@
 # evaluate-news-nlp
-好的 ✅ 我帮你把这个项目整理成简洁的英文版，突出你完成的内容和结果，去掉“作业/课程要求”等字样：
 
-⸻
-
-Legal Reading Comprehension
+proje1-Legal Reading Comprehension
 
 Project Overview
 
